@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SnackBar Example</string>
+    <string name="offline_status">You are offline</string>
+    <string name="undo_string">Undo</string>
+</resources>
